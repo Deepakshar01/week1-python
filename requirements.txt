@@ -1,0 +1,6 @@
+
+---
+
+### 9️⃣ requirements.txt
+Python doesn’t need libraries here, so write:
+
